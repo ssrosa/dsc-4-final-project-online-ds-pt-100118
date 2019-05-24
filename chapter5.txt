@@ -122,7 +122,7 @@ from his lurking-place.
 The lore which he was believed to pass his days brooding upon so that 
 it had rapt him from the companionship of youth was only a garner of 
 slender sentences from Aristotle's poetics and psychology and a 
-_Synopsis Philosophi 'e6 Scholastic 'e6 ad mentem divi Thom 'e6_. His thinking 
+ Synopsis Philosophi   Scholastic   ad mentem divi Thom   . His thinking 
 was a dusk of doubt and selfmistrust, lit up at moments by the 
 lightnings of intuition, but lightnings of so clear a splendour that in 
 those moments the world perished about his feet as if it had been 
@@ -205,9 +205,9 @@ whining on a wall? Yellow ivy; that was all right. Yellow ivory also.
 And what about ivory ivy? 
  
 The word now shone in his brain, clearer and brighter than any ivory 
-sawn from the mottled tusks of elephants. _Ivory, ivoire, avorio, 
-ebur._ One of the first examples that he had learnt in Latin had run: 
-_India mittit ebur;_ and he recalled the shrewd northern face of the 
+sawn from the mottled tusks of elephants.  Ivory, ivoire, avorio, 
+ebur.  One of the first examples that he had learnt in Latin had run: 
+ India mittit ebur;  and he recalled the shrewd northern face of the 
 rector who had taught him to construe the Metamorphoses of Ovid in a 
 courtly English, made whimsical by the mention of porkers and potsherds 
 and chines of bacon. He had learnt what little he knew of the laws of 
@@ -217,9 +217,9 @@ Latin verse from a ragged book written by a Portuguese priest.
  
  
 The crises and victories and secessions in Roman history were handed on 
-to him in the trite words _in tanto discrimine_ and he had tried to 
+to him in the trite words  in tanto discrimine  and he had tried to 
 peer into the social life of the city of cities through the words 
-_implere ollam denariorum_ which the rector had rendered sonorously as 
+ implere ollam denariorum  which the rector had rendered sonorously as 
 the filling of a pot with denaries. The pages of his timeworn Horace 
 never felt cold to the touch even when his own fingers were cold; they 
 were human pages and fifty years before they had been turned by the 
@@ -342,8 +342,8 @@ gone that morning to Queenstown with his sister to see her off. And all
 the time she was talking, Stevie, she had her eyes fixed on my face and 
 she stood so close to me I could hear her breathing. When I handed her 
 back the mug at last she took my hand to draw me in over the threshold 
-and said: _ '91Come in and stay the night here. You've no call to be 
-frightened. There's no one in it but ourselves....'_ I didn't go in, 
+and said:   '91Come in and stay the night here. You've no call to be 
+frightened. There's no one in it but ourselves....'  I didn't go in, 
 Stevie. I thanked her and went on my way again, all in a fever. At the 
 first bend of the road I looked back and she was standing at the door. 
  
@@ -388,7 +388,7 @@ Tone and he remembered having been present with his father at its
 laying. He remembered with bitterness that scene of tawdry tribute. 
 There were four French delegates in a brake and one, a plump smiling 
 young man, held, wedged on a stick, a card on which were printed the 
-words: _Vive l'Irlande!_ 
+words:  Vive l'Irlande!  
  
 But the trees in Stephen's Green were fragrant of rain and the 
 rainsodden earth gave forth its mortal odour, a faint incense rising 
@@ -456,14 +456,14 @@ He rubbed his hands slowly and drily over the difficulty.
  
  Can you solve that question now? he asked. 
  
- Aquinas, answered Stephen, says _pulcra sunt qu 'e6 visa placent_. 
+ Aquinas, answered Stephen, says  pulcra sunt qu   visa placent . 
  
  This fire before us, said the dean, will be pleasing to the eye. Will 
 it therefore be beautiful? 
  
  In so far as it is apprehended by the sight, which I suppose means 
 here esthetic intellection, it will be beautiful. But Aquinas also says 
-_Bonum est in quod tendit appetitus_. In so far as it satisfies the 
+ Bonum est in quod tendit appetitus . In so far as it satisfies the 
 animal craving for warmth fire is a good. In hell, however, it is an 
 evil. 
  
@@ -484,7 +484,7 @@ bidden to do, for the greater glory of God, without joy in their
 handling or hatred of that in them which was evil but turning them, 
 with a firm gesture of obedience back upon themselves and for all this 
 silent service it seemed as if he loved not at all the master and 
-little, if at all, the ends he served. _Similiter atque senis baculus_, 
+little, if at all, the ends he served.  Similiter atque senis baculus , 
 he was, as the founder would have had him, like a staff in an old man's 
 hand, to be leaned on in the road at nightfall or in stress of weather, 
 to lie with a lady's nosegay on a garden seat, to be raised in menace. 
@@ -550,14 +550,14 @@ whether words are being used according to the literary tradition or
 according to the tradition of the marketplace. I remember a sentence of 
 Newman's in which he says of the Blessed Virgin that she was detained 
 in the full company of the saints. The use of the word in the 
-marketplace is quite different. _I hope I am not detaining you._ 
+marketplace is quite different.  I hope I am not detaining you.  
  
  Not in the least, said the dean politely. 
  
  No, no, said Stephen, smiling, I mean...  
  
  Yes, yes; I see, said the dean quickly, I quite catch the point: 
-_detain_. 
+ detain . 
  
 He thrust forward his under jaw and uttered a dry short cough. 
  
@@ -618,7 +618,7 @@ smart of dejection that the man to whom he was speaking was a
 countryman of Ben Jonson. He thought: 
  
  The language in which we are speaking is his before it is mine. How 
-different are the words _home, Christ, ale, master,_ on his lips and on 
+different are the words  home, Christ, ale, master,  on his lips and on 
 mine! I cannot speak or write these words without unrest of spirit. His 
 language, so familiar and so foreign, will always be for me an acquired 
 speech. I have not made or accepted its words. My voice holds them at 
@@ -643,7 +643,7 @@ long time before he got to the top. But he got there.
  I may not have his talent, said Stephen quietly. 
  
  You never know, said the dean brightly. We never can say what is in 
-us. I most certainly should not be despondent. _Per aspera ad astra._ 
+us. I most certainly should not be despondent.  Per aspera ad astra.  
  
 He left the hearth quickly and went towards the landing to oversee the 
 arrival of the first arts' class. 
@@ -796,7 +796,7 @@ comic Irishman in the bench behind. Patience. Can you say with
 certitude by whom the soul of your race was bartered and its elect 
 betrayed by the questioner or by the mocker? Patience. Remember 
 Epictetus. It is probably in his character to ask such a question at 
-such a moment in such a tone and to pronounce the word _science_ as a 
+such a moment in such a tone and to pronounce the word  science  as a 
 monosyllable. 
  
 The droning voice of the professor continued to wind itself slowly 
@@ -824,17 +824,17 @@ watching him.
 Cranly closed his long thinlipped mouth, communed with himself an 
 instant and answered: 
  
- _Ego habeo_. 
+  Ego habeo . 
  
  What is it for? 
  
- _Quod?_ 
+  Quod?  
  
  What is it for? 
  
 Cranly turned his pale face to Stephen and said blandly and bitterly: 
  
- _Per pax universalis._ 
+  Per pax universalis.  
  
 Stephen pointed to the Tsar's photograph and said: 
  
@@ -851,8 +851,8 @@ survey of the walls of the hall.
  
  No. 
  
- _Credo ut vos sanguinarius mendax estis,_ said Cranly, _quia facies 
-vostra monstrat ut vos in damno malo humore estis._ 
+  Credo ut vos sanguinarius mendax estis,  said Cranly,  quia facies 
+vostra monstrat ut vos in damno malo humore estis.  
  
 Moynihan, on his way to the table, said in Stephen's ear: 
  
@@ -871,7 +871,7 @@ flatly:
  
  A sugar! 
  
- _Quis est in malo humore,_ said Stephen, _ego aut vos?_ 
+  Quis est in malo humore,  said Stephen,  ego aut vos?  
  
 Cranly did not take up the taunt. He brooded sourly on his judgement 
 and repeated with the same flat force: 
@@ -997,7 +997,7 @@ question of universal peace.
 Cranly raised his head and held the handball between the two students 
 by way of a peaceoffering, saying: 
  
- _Pax super totum sanguinarium globum._ 
+  Pax super totum sanguinarium globum.  
  
 Stephen, moving away the bystanders, jerked his shoulder angrily in the 
 direction of the Tsar's image, saying: 
@@ -1034,7 +1034,7 @@ believer in the power of mind.
  
 Cranly linked his arms into those of Stephen and his admirer and said: 
  
- _Nos ad manum ballum jocabimus._ 
+  Nos ad manum ballum jocabimus.  
  
 Stephen, in the act of being led away, caught sight of MacCann's 
 flushed bluntfeatured face. 
@@ -1117,7 +1117,7 @@ Stephen laughed outright. Cranly, picking up the broken stave of a cask
 from the grass at his feet, turned swiftly and said sternly: 
  
  Temple, I declare to the living God if you say another word, do you 
-know, to anybody on any subject, I'll kill you _super spottum._ 
+know, to anybody on any subject, I'll kill you  super spottum.  
  
  He was like you, I fancy, said Stephen, an emotional man. 
  
@@ -1214,7 +1214,7 @@ Stephen paused and laid a friendly hand upon Davin's shoulder.
 morning we met you asked me to show you the way to the matriculation 
 class, putting a very strong stress on the first syllable. You 
 remember? Then you used to address the jesuits as father, you remember? 
-I ask myself about you: _Is he as innocent as his speech?_ 
+I ask myself about you:  Is he as innocent as his speech?  
  
  I'm a simple person, said Davin. You know that. When you told me that 
 night in Harcourt Street those things about your private life, honest 
@@ -1328,7 +1328,7 @@ according to the terms of my definitions.
  
  The tragic emotion, in fact, is a face looking two ways, towards 
 terror and towards pity, both of which are phases of it. You see I use 
-the word _arrest_. I mean that the tragic emotion is static. Or rather 
+the word  arrest . I mean that the tragic emotion is static. Or rather 
 the dramatic emotion is. The feelings excited by improper art are 
 kinetic, desire or loathing. Desire urges us to possess, to go to 
 something; loathing urges us to abandon, to go from something. The arts 
@@ -1438,9 +1438,9 @@ which pleases.
  
 Lynch nodded. 
  
- I remember that, he said, _Pulcra sunt qu 'e6 visa placent._ 
+ I remember that, he said,  Pulcra sunt qu   visa placent.  
  
- He uses the word _visa,_ said Stephen, to cover esthetic apprehensions 
+ He uses the word  visa,  said Stephen, to cover esthetic apprehensions 
 of all kinds, whether through sight or hearing or through any other 
 avenue of apprehension. This word, though it is vague, is clear enough 
 to keep away good and evil which excite desire and loathing. It means 
@@ -1482,7 +1482,7 @@ propagation of the species. It may be so. The world, it seems, is
 drearier than even you, Lynch, imagined. For my part I dislike that way 
 out. It leads to eugenics rather than to esthetic. It leads you out of 
 the maze into a new gaudy lectureroom where MacCann, with one hand on 
-_The Origin of Species_ and the other hand on the new testament, tells 
+ The Origin of Species  and the other hand on the new testament, tells 
 you that you admired the great flanks of Venus because you felt that 
 she would bear you burly offspring and admired her great breasts 
 because you felt that she would give good milk to her children and 
@@ -1530,15 +1530,15 @@ finish the first part.
  
  Who knows? said Stephen, smiling. Perhaps Aquinas would understand me 
 better than you. He was a poet himself. He wrote a hymn for Maundy 
-Thursday. It begins with the words _Pange lingua gloriosi._ They say it 
+Thursday. It begins with the words  Pange lingua gloriosi.  They say it 
 is the highest glory of the hymnal. It is an intricate and soothing 
 hymn. I like it; but there is no hymn that can be put beside that 
-mournful and majestic processional song, the _Vexilla Regis_ of 
+mournful and majestic processional song, the  Vexilla Regis  of 
 Venantius Fortunatus. 
  
 Lynch began to sing softly and solemnly in a deep bass voice: 
  
-    Inpleta sunt qu 'e6 concinit 
+    Inpleta sunt qu   concinit 
     David fideli carmine 
     Dicendo nationibus 
     Regnavit a ligno Deus. 
@@ -1615,9 +1615,9 @@ silence.
  To finish what I was saying about beauty, said Stephen, the most 
 satisfying relations of the sensible must therefore correspond to the 
 necessary phases of artistic apprehension. Find these and you find the 
-qualities of universal beauty. Aquinas says: _Ad pulcritudinem tria 
-requiruntur integritas, consonantia, claritas._ I translate it so: 
-_Three things are needed for beauty, wholeness, harmony and radiance._ 
+qualities of universal beauty. Aquinas says:  Ad pulcritudinem tria 
+requiruntur integritas, consonantia, claritas.  I translate it so: 
+ Three things are needed for beauty, wholeness, harmony and radiance.  
 Do these correspond to the phases of apprehension? Are you following? 
  
  Of course, I am, said Lynch. If you think I have an excrementitious 
@@ -1638,8 +1638,8 @@ us either in space or in time. What is audible is presented in time,
 what is visible is presented in space. But temporal or spatial, the 
 esthetic image is first luminously apprehended as selfbounded and 
 selfcontained upon the immeasurable background of space or time which 
-is not it. You apprehended it as _one_ thing. You see it as one whole. 
-You apprehend its wholeness. That is _integritas._ 
+is not it. You apprehended it as  one  thing. You see it as one whole. 
+You apprehend its wholeness. That is  integritas.  
  
  Bull's eye! said Lynch, laughing. Go on. 
  
@@ -1647,12 +1647,12 @@ You apprehend its wholeness. That is _integritas._
 lines; you apprehend it as balanced part against part within its 
 limits; you feel the rhythm of its structure. In other words, the 
 synthesis of immediate perception is followed by the analysis of 
-apprehension. Having first felt that it is _one_ thing you feel now 
-that it is a _thing_. You apprehend it as complex, multiple, divisible, 
+apprehension. Having first felt that it is  one  thing you feel now 
+that it is a  thing . You apprehend it as complex, multiple, divisible, 
 separable, made up of its parts, the result of its parts and their sum, 
-harmonious. That is _consonantia_. 
+harmonious. That is  consonantia . 
  
- Bull's eye again! said Lynch wittily. Tell me now what is _claritas_ 
+ Bull's eye again! said Lynch wittily. Tell me now what is  claritas  
 and you win the cigar. 
  
  The connotation of the word, Stephen said, is rather vague. Aquinas 
@@ -1660,7 +1660,7 @@ uses a term which seems to be inexact. It baffled me for a long time.
 It would lead you to believe that he had in mind symbolism or idealism, 
 the supreme quality of beauty being a light from some other world, the 
 idea of which the matter is but the shadow, the reality of which it is 
-but the symbol. I thought he might mean that _claritas_ is the artistic 
+but the symbol. I thought he might mean that  claritas  is the artistic 
 discovery and representation of the divine purpose in anything or a 
 force of generalization which would make the esthetic image a universal 
 one, make it outshine its proper conditions. But that is literary talk. 
@@ -1668,8 +1668,8 @@ I understand it so. When you have apprehended that basket as one thing
 and have then analysed it according to its form and apprehended it as a 
 thing you make the only synthesis which is logically and esthetically 
 permissible. You see that it is that thing which it is and no other 
-thing. The radiance of which he speaks in the scholastic _quidditas_, 
-the _whatness_ of a thing. This supreme quality is felt by the artist 
+thing. The radiance of which he speaks in the scholastic  quidditas , 
+the  whatness  of a thing. This supreme quality is felt by the artist 
 when the esthetic image is first conceived in his imagination. The mind 
 in that mysterious instant Shelley likened beautifully to a fading 
 coal. The instant wherein that supreme quality of beauty, the clear 
@@ -1703,16 +1703,16 @@ discussion.
  I have a book at home, said Stephen, in which I have written down 
 questions which are more amusing than yours were. In finding the 
 answers to them I found the theory of esthetic which I am trying to 
-explain. Here are some questions I set myself: _Is a chair finely made 
+explain. Here are some questions I set myself:  Is a chair finely made 
 tragic or comic? Is the portrait of Mona Lisa good if I desire to see 
 it? Is the bust of Sir Philip Crampton lyrical, epical or dramatic. If 
-not, why not?_ 
+not, why not?  
  
  Why not, indeed? said Lynch, laughing. 
  
- _If a man hacking in fury at a block of wood,_ Stephen continued, 
-_make there an image of a cow, is that image a work of art? If not, why 
-not?_ 
+  If a man hacking in fury at a block of wood,  Stephen continued, 
+ make there an image of a cow, is that image a work of art? If not, why 
+not?  
  
  That's a lovely one, said Lynch, laughing again. That has the true 
 scholastic stink. 
@@ -1732,7 +1732,7 @@ emotional gravity is equidistant from the artist himself and from
 others. The narrative is no longer purely personal. The personality of 
 the artist passes into the narration itself, flowing round and round 
 the persons and the action like a vital sea. This progress you will see 
-easily in that old English ballad _Turpin Hero,_ which begins in the 
+easily in that old English ballad  Turpin Hero,  which begins in the 
 first person and ends in the third person. The dramatic form is reached 
 when the vitality which has flowed and eddied round each person fills 
 every person with such vital force that he or she assumes a proper and 
@@ -1790,8 +1790,8 @@ city.
  
  Depends on the practice. 
  
- _Ego credo ut vita pauperum est simpliciter atrox, simpliciter 
-sanguinarius atrox, in Liverpoolio._ 
+  Ego credo ut vita pauperum est simpliciter atrox, simpliciter 
+sanguinarius atrox, in Liverpoolio.  
  
 Their voices reached his ears as if from a distance in interrupted 
 pulsation. She was preparing to go away with her companions. 
@@ -1951,7 +1951,7 @@ his memory: the flower girl in the ragged dress with damp coarse hair
 and a hoyden's face who had called herself his own girl and begged his 
 handsel, the kitchen-girl in the next house who sang over the clatter 
 of her plates, with the drawl of a country singer, the first bars of 
-_By Killarney's Lakes and Fells_, a girl who had laughed gaily to see 
+ By Killarney's Lakes and Fells , a girl who had laughed gaily to see 
 him stumble when the iron grating in the footpath near Cork Hill had 
 caught the broken sole of his shoe, a girl he had glanced at, attracted 
 by her small ripe mouth, as she passed out of Jacob's biscuit factory, 
@@ -2189,7 +2189,7 @@ the frontispiece, lay before him on the wooden rest. He leaned back in
 his chair, inclining his ear like that of a confessor to the face of 
 the medical student who was reading to him a problem from the chess 
 page of a journal. Stephen sat down at his right and the priest at the 
-other side of the table closed his copy of _The Tablet_ with an angry 
+other side of the table closed his copy of  The Tablet  with an angry 
 snap and stood up. 
  
 Cranly gazed after him blandly and vaguely. The medical student went on 
@@ -2205,7 +2205,7 @@ Dixon folded the journal and rose with dignity, saying:
  Our men retired in good order. 
  
  With guns and cattle, added Stephen, pointing to the titlepage of 
-Cranly's book on which was printed _Diseases of the Ox_. 
+Cranly's book on which was printed  Diseases of the Ox . 
  
 As they passed through a lane of the tables Stephen said: 
  
@@ -2245,8 +2245,8 @@ Cranly smiled and said kindly:
  The captain has only one love: sir Walter Scott. Isn't that so, 
 captain? 
  
- What are you reading now, captain? Dixon asked. _The Bride of 
-Lammermoor?_ 
+ What are you reading now, captain? Dixon asked.  The Bride of 
+Lammermoor?  
  
  I love old Scott, the flexible lips said, I think he writes something 
 lovely. There is no writer can touch sir Walter Scott. 
@@ -2342,7 +2342,7 @@ with dark eyes.
  
  Baldhead, Cranly repeated, sucking at a crevice in his teeth. 
  
- _Pernobilis et pervetusta familia,_ Temple said to Stephen. 
+  Pernobilis et pervetusta familia,  Temple said to Stephen. 
  
 The stout student who stood below them on the steps farted briefly. 
 Dixon turned towards him, saying in a soft voice: 
@@ -2357,7 +2357,7 @@ Cranly turned also and said vehemently but without anger:
 one any harm, did it? 
  
  We hope, Dixon said suavely, that it was not of the kind known to 
-science as a _paulo post futurum._ 
+science as a  paulo post futurum.  
  
  Didn't I tell you he was a smiler? said Temple, turning right and 
 left. Didn't I give him that name? 
@@ -2564,7 +2564,7 @@ loudly:
  
  Um, Cranly said as before. 
  
- Do you intend that now, the squat student said, as _ipso facto_ or, 
+ Do you intend that now, the squat student said, as  ipso facto  or, 
 let us say, as so to speak? 
  
 Dixon turned aside from his group, saying: 
@@ -2679,7 +2679,7 @@ Cranly looked at him for a few moments and asked:
  Yes, now, Stephen said. We can't speak here. Come away. 
  
 They crossed the quadrangle together without speaking. The bird call 
-from _Siegfried_ whistled softly followed them from the steps of the 
+from  Siegfried  whistled softly followed them from the steps of the 
 porch. Cranly turned, and Dixon, who had whistled, called out: 
  
  Where are you fellows off to? What about that game, Cranly? 
@@ -3004,11 +3004,11 @@ a light glimmered in the window of a kitchen and the voice of a servant
 was heard singing as she sharpened knives. She sang, in short broken 
 bars: 
  
-_Rosie O'Grady _ 
+ Rosie O'Grady   
  
 Cranly stopped to listen, saying: 
  
- _Mulier cantat._ 
+  Mulier cantat.  
  
 The soft beauty of the Latin word touched with an enchanting touch the 
 dark of the evening, with a touch fainter and more persuading than the 
@@ -3020,7 +3020,7 @@ and high as a boy's, was heard intoning from a distant choir the first
 words of a woman which pierce the gloom and clamour of the first 
 chanting of the passion: 
  
- _Et tu cum Jesu Galil 'e6o eras._ 
+  Et tu cum Jesu Galil  o eras.  
  
 And all hearts were touched and turned to her voice, shining like a 
 young star, shining clearer as the voice intoned the proparoxyton and 
@@ -3178,7 +3178,7 @@ He had spoken of himself, of his own loneliness which he feared.
  
 Cranly did not answer. 
  
-_March_ 20. Long talk with Cranly on the subject of my revolt. 
+ March  20. Long talk with Cranly on the subject of my revolt. 
  
 He had his grand manner on. I supple and suave. Attacked me on the 
 score of love for one's mother. Tried to imagine his mother: cannot. 
@@ -3191,7 +3191,7 @@ young or very old? Hardly the first. If so, Cranly would not have
 spoken as he did. Old then. Probably, and neglected. Hence Cranly's 
 despair of soul: the child of exhausted loins. 
  
-_March_ 21, _morning_. Thought this in bed last night but was too lazy 
+ March  21,  morning . Thought this in bed last night but was too lazy 
 and free to add to it. Free, yes. The exhausted loins are those of 
 Elizabeth and Zacchary. Then he is the precursor. Item: he eats chiefly 
 belly bacon and dried figs. Read locusts and wild honey. Also, when 
@@ -3200,18 +3200,18 @@ outlined on a grey curtain or veronica. Decollation they call it in the
 fold. Puzzled for the moment by saint John at the Latin gate. What do I 
 see? A decollated precursor trying to pick the lock. 
  
-_March_ 21, _night_. Free. Soul free and fancy free. Let the dead bury 
+ March  21,  night . Free. Soul free and fancy free. Let the dead bury 
 the dead. Ay. And let the dead marry the dead. 
  
-_March_ 22. In company with Lynch followed a sizeable hospital nurse. 
+ March  22. In company with Lynch followed a sizeable hospital nurse. 
 Lynch's idea. Dislike it. Two lean hungry greyhounds walking after a 
 heifer. 
  
-_March_ 23. Have not seen her since that night. Unwell? Sits at the 
+ March  23. Have not seen her since that night. Unwell? Sits at the 
 fire perhaps with mamma's shawl on her shoulders. But not peevish. A 
 nice bowl of gruel? Won't you now? 
  
-_March_ 24. Began with a discussion with my mother. Subject: B.V.M. 
+ March  24. Began with a discussion with my mother. Subject: B.V.M. 
 Handicapped by my sex and youth. To escape held up relations between 
 Jesus and Papa against those between Mary and her son. Said religion 
 was not a lying-in hospital. Mother indulgent. Said I have a queer mind 
@@ -3225,8 +3225,8 @@ Then went to college. Other wrangle with little round head rogue's eye
 Ghezzi. This time about Bruno the Nolan. Began in Italian and ended in 
 pidgin English. He said Bruno was a terrible heretic. I said he was 
 terribly burned. He agreed to this with some sorrow. Then gave me 
-recipe for what he calls _risotto alla bergamasca_. When he pronounces 
-a soft _o_ he protrudes his full carnal lips as if he kissed the vowel. 
+recipe for what he calls  risotto alla bergamasca . When he pronounces 
+a soft  o  he protrudes his full carnal lips as if he kissed the vowel. 
 Has he? And could he repent? Yes, he could: and cry two round rogue's 
 tears, one from each eye. 
  
@@ -3249,11 +3249,11 @@ Alas, poor William!
  
 I was once at a diorama in Rotunda. At the end were pictures of big 
 nobs. Among them William Ewart Gladstone, just then dead. Orchestra 
-played _O, Willie, we have missed you._ 
+played  O, Willie, we have missed you.  
  
 A race of clodhoppers! 
  
-_March_ 25, _morning_. A troubled night of dreams. Want to get them off 
+ March  25,  morning . A troubled night of dreams. Want to get them off 
 my chest. 
  
 A long curving gallery. From the floor ascend pillars of dark vapours. 
@@ -3267,7 +3267,7 @@ One does not seem to stand quite apart from another. Their faces are
 phosphorescent, with darker streaks. They peer at me and their eyes 
 seem to ask me something. They do not speak. 
  
-_March_ 30. This evening Cranly was in the porch of the library, 
+ March  30. This evening Cranly was in the porch of the library, 
 proposing a problem to Dixon and her brother. A mother let her child 
 fall into the Nile. Still harping on the mother. A crocodile seized the 
 child. Mother asked it back. Crocodile said all right if she told him 
@@ -3278,17 +3278,17 @@ the operation of your sun.
  
 And mine? Is it not too? Then into Nile mud with it! 
  
-_April_ 1. Disapprove of this last phrase. 
+ April  1. Disapprove of this last phrase. 
  
-_April_ 2. Saw her drinking tea and eating cakes in Johnston's, Mooney 
+ April  2. Saw her drinking tea and eating cakes in Johnston's, Mooney 
 and O'Brien's. Rather, lynx-eyed Lynch saw her as we passed. He tells 
 me Cranly was invited there by brother. Did he bring his crocodile? Is 
 he the shining light now? Well, I discovered him. I protest I did. 
 Shining quietly behind a bushel of Wicklow bran. 
  
-_April_ 3. Met Davin at the cigar shop opposite Findlater's church. He 
+ April  3. Met Davin at the cigar shop opposite Findlater's church. He 
 was in a black sweater and had a hurley stick. Asked me was it true I 
-was going away and why. Told him the shortest way to Tara was _via_ 
+was going away and why. Told him the shortest way to Tara was  via  
 Holyhead. Just then my father came up. Introduction. Father polite and 
 observant. Asked Davin if he might offer him some refreshment. Davin 
 could not, was going to a meeting. When we came away father told me he 
@@ -3297,24 +3297,24 @@ pretended to think it over. Told me then how he broke Pennyfeather's
 heart. Wants me to read law. Says I was cut out for that. More mud, 
 more crocodiles. 
  
-_April_ 5. Wild spring. Scudding clouds. O life! Dark stream of 
+ April  5. Wild spring. Scudding clouds. O life! Dark stream of 
 swirling bogwater on which appletrees have cast down their delicate 
 flowers. Eyes of girls among the leaves. Girls demure and romping. All 
 fair or auburn: no dark ones. They blush better. Houp-la! 
  
-_April_ 6. Certainly she remembers the past. Lynch says all women do. 
+ April  6. Certainly she remembers the past. Lynch says all women do. 
 Then she remembers the time of her childhood and mine if I was ever a 
 child. The past is consumed in the present and the present is living 
 only because it brings forth the future. Statues of women, if Lynch be 
 right, should always be fully draped, one hand of the woman feeling 
 regretfully her own hinder parts. 
  
-_April_ 6, _later_. Michael Robartes remembers forgotten beauty and, 
+ April  6,  later . Michael Robartes remembers forgotten beauty and, 
 when his arms wrap her round, he presses in his arms the loveliness 
 which has long faded from the world. Not this. Not at all. I desire to 
 press in my arms the loveliness which has not yet come into the world. 
  
-_April_ 10. Faintly, under the heavy night, through the silence of the 
+ April  10. Faintly, under the heavy night, through the silence of the 
 city which has turned from dreams to dreamless sleep as a weary lover 
 whom no caresses move, the sound of hoofs upon the road. Not so faintly 
 now as they come near the bridge; and in a moment, as they pass the 
@@ -3323,16 +3323,16 @@ are heard now far away, hoofs that shine amid the heavy night as gems,
 hurrying beyond the sleeping fields to what journey's end what 
 heart? bearing what tidings? 
  
-_April_ 11. Read what I wrote last night. Vague words for a vague 
+ April  11. Read what I wrote last night. Vague words for a vague 
 emotion. Would she like it? I think so. Then I should have to like it 
 also. 
  
-_April_ 13. That tundish has been on my mind for a long time. I looked 
+ April  13. That tundish has been on my mind for a long time. I looked 
 it up and find it English and good old blunt English too. Damn the dean 
 of studies and his funnel! What did he come here for to teach us his 
 own language or to learn it from us. Damn him one way or the other! 
  
-_April_ 14. John Alphonsus Mulrennan has just returned from the west of 
+ April  14. John Alphonsus Mulrennan has just returned from the west of 
 Ireland. European and Asiatic papers please copy. He told us he met an 
 old man there in a mountain cabin. Old man had red eyes and short pipe. 
 Old man spoke Irish. Mulrennan spoke Irish. Then old man and Mulrennan 
@@ -3347,7 +3347,7 @@ struggle all through this night till day come, till he or I lie dead,
 gripping him by the sinewy throat till... Till what? Till he yield to 
 me? No. I mean no harm. 
  
-_April_ 15. Met her today point blank in Grafton Street. The crowd 
+ April  15. Met her today point blank in Grafton Street. The crowd 
 brought us together. We both stopped. She asked me why I never came, 
 said she had heard all sorts of stories about me. This was only to gain 
 time. Asked me was I writing poems? About whom? I asked her. This 
@@ -3367,7 +3367,7 @@ it seems a new feeling to me. Then, in that case, all the rest, all
 that I thought I thought and all that I felt I felt, all the rest 
 before now, in fact... O, give it up, old chap! Sleep it off! 
  
-_April_ 16. Away! Away! 
+ April  16. Away! Away! 
  
 The spell of arms and voices: the white arms of roads, their promise of 
 close embraces and the black arms of tall ships that stand against the 
@@ -3377,13 +3377,13 @@ air is thick with their company as they call to me, their kinsman,
 making ready to go, shaking the wings of their exultant and terrible 
 youth. 
  
-_April_ 26. Mother is putting my new secondhand clothes in order. She 
+ April  26. Mother is putting my new secondhand clothes in order. She 
 prays now, she says, that I may learn in my own life and away from home 
 and friends what the heart is and what it feels. Amen. So be it. 
 Welcome, O life! I go to encounter for the millionth time the reality 
 of experience and to forge in the smithy of my soul the uncreated 
 conscience of my race. 
  
-_April_ 27. Old father, old artificer, stand me now and ever in good 
+ April  27. Old father, old artificer, stand me now and ever in good 
 stead. 
 }
