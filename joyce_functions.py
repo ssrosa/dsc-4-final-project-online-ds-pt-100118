@@ -8,6 +8,7 @@ import seaborn as sns
 
 #For NLP preprocessing
 from nltk.corpus import stopwords
+from nltk import word_tokenize
 import string #for removing punctuation from text
 import en_core_web_md #parrish
 import spacy #parrish 
@@ -40,6 +41,8 @@ from keras.layers import Dropout, Activation, GlobalMaxPool1D, GlobalMaxPool2D, 
 from keras.models import Model
 from keras import models, initializers, regularizers, constraints, optimizers, layers
 from keras.preprocessing import text, sequence
+
+nlp = spacy.load('en_core_web_md')
 
 def stop(word):
     '''
@@ -467,7 +470,7 @@ def prepare(df,
     return X_train, X_test, y_train, y_test
 
 #LOGISTIC REGRESSION
-def lr(X_train, X_test, y_train, y_testl,
+def lr(X_train, X_test, y_train, y_test,
       report = True):
     '''
     Pipeline for performing logistic regression.
@@ -498,7 +501,7 @@ def lr(X_train, X_test, y_train, y_testl,
     return logreg.score(X_train, y_train), logreg.score(X_test, y_test)
 
 #RANDOM FOREST
-def rf(X_train, X_test, y_train, y_testl,
+def rf(X_train, X_test, y_train, y_test,
        n_estimators=175,
        max_depth = 30,
        report = True):
